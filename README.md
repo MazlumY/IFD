@@ -2,3 +2,5 @@
 Praktikumsaufgabe 1 Moodboard : https://github.com/MazlumY/IFD/blob/main/Praktikumsaufgabe1/Moodboard.pdf
 
 Praktikumsaufgabe 1 Thema: https://github.com/MazlumY/IFD/blob/main/Praktikumsaufgabe1/Thema%20Internetnutzung%20in%20Deutschland.pdf
+
+Praktikumsaufgabe 2 Prototyping: https://github.com/MazlumY/IFD/tree/main/Praktikumsaufgabe2
